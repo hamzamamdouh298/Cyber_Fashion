@@ -42,7 +42,6 @@ ScrollReveal().reveal(".header__content p", {
   ...scrollRevealOption,
   delay: 1500,
 });
-
 ScrollReveal().reveal(".deals__card", {
   ...scrollRevealOption,
   interval: 500,
